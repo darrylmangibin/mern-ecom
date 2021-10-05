@@ -1,0 +1,23 @@
+{
+  "name": "mern-ecom",
+  "version": "1.0.0",
+  "description": "Mern shopping cart",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node back-end/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrylmangibin/mern-ecom.git"
+  },
+  "author": "Darryl Mangibin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrylmangibin/mern-ecom/issues"
+  },
+  "homepage": "https://github.com/darrylmangibin/mern-ecom#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
